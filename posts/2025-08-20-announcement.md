@@ -2,6 +2,7 @@
 title: "Announcing Global Launch of ZuraVPN"
 date: "2025-08-20"
 author: "Team ZuraVPN"
+category: "News"
 ---
 
 We’re thrilled to announce the global launch of **ZuraVPN** 🌍
